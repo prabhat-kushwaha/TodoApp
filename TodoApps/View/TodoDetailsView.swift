@@ -12,6 +12,7 @@ struct TodoDetailsView: View {
     @EnvironmentObject var viewModel : TodoViewModel
     @State var isEditingDescription: Bool = false
     let todo:TodoModel
+    
     var body: some View {
         NavigationStack{
             VStack{

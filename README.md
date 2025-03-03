@@ -40,7 +40,6 @@ A beautifully designed **SwiftUI** To-Do app that helps you manage your tasks ef
 
 ## 🎨 Customization
 - Change the theme in **Settings**.
-- Customize task categories and priorities.
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit pull requests and report issues.
