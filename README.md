@@ -11,16 +11,16 @@ A beautifully designed **SwiftUI** To-Do app that helps you manage your tasks ef
 
 ### 🌞 Light Mode
 
-![Light Mode Home](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/dashboard_dark.png)  
+![Light Mode Home](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/dashboard_light.png)  
 *Home screen with task list in Light Mode.*
 
-![Light Mode Task View](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/desc_dark.png)  
+![Light Mode Task View](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/desc_light.png)  
 *Detailed task view in Light Mode.*
 
-![Light Mode Add Task](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/create_dark.png)  
+![Light Mode Add Task](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/create_light.png)  
 *Adding a new task in Light Mode.*
 
-![Light Mode Update Task](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/update_dark.png)
+![Light Mode Update Task](https://github.com/prabhat-kushwaha/TodoApp/blob/development/ScreenShot/update_light.png)
 *Update page with customization options in Light Mode.*
 
 ### 🌙 Dark Mode
