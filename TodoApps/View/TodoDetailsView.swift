@@ -23,7 +23,6 @@ struct TodoDetailsView: View {
                         .font(.body)
                 }
                 
-                
                 Spacer()
                 Button(action: {
                     isEditingDescription.toggle()
