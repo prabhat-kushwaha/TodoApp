@@ -1,6 +1,6 @@
 # 📌 To-Do App (SwiftUI)
 
-A beautifully designed **SwiftUI** To-Do app that helps you manage your tasks effectively. With a smooth user interface and support for **Light and Dark themes**, this app ensures an intuitive and productive task management experience on **iOS/macOS**.
+A beautifully designed **SwiftUI** To-Do app that helps you manage your tasks effectively. With a smooth user interface and support for **Light and Dark themes**, this app ensures an intuitive and productive task management experience on **iOS**.
 
 ## 🚀 Features
 
