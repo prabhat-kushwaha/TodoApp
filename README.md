@@ -4,7 +4,7 @@ A beautifully designed **SwiftUI** To-Do app that helps you manage your tasks ef
 
 ## 🚀 Features
 
-✅ **SwiftUI-powered UI** – Smooth animations and clean interface.  
+✅ **SwiftUI** – Smooth animations and clean interface.  
 🌙 **Light & Dark Mode** – Seamless theme switching for eye comfort.  
 
 ## 📸 Screenshots
