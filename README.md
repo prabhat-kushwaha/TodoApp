@@ -6,9 +6,6 @@ A beautifully designed **SwiftUI** To-Do app that helps you manage your tasks ef
 
 ✅ **SwiftUI-powered UI** – Smooth animations and clean interface.  
 🌙 **Light & Dark Mode** – Seamless theme switching for eye comfort.  
-📅 **Due Dates & Notifications** – Get reminders for important tasks.  
-📂 **Task Categories & Priorities** – Stay organized with custom lists.  
-🔄 **iCloud Sync** – Keep your tasks up to date across all Apple devices.  
 
 ## 📸 Screenshots
 
